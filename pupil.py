@@ -22,4 +22,3 @@ class PupilManager:
         self.pupils.append(pupil)
 
 
-#
