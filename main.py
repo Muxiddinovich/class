@@ -45,3 +45,8 @@ person1=Person("Sherbek", "Kubayev", 2008)
 person1.get_info()
 
 print(person1.get_age())
+
+
+
+
+
